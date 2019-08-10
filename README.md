@@ -1,2 +1,2 @@
-# Terrain-Tiles
-OpenLocak / OpenForge compatible 3D RPG Terrain Tiles
+# Tsukure-RPG
+OpenLock / OpenForge compatible 3D RPG Terrain Tiles, Accessories and Game Pieces.
